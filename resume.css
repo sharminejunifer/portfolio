@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url("stars.gif") no-repeat;
+    background-size: cover;
+    border: 1px solid rgb(84, 148, 211);
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 1rem;
+    
+    transition: .3s ease ;
+    transition-property: background-color, color;
+    align-items: center;
+    text-align: center;
+  }
